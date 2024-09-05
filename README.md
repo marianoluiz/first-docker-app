@@ -96,3 +96,5 @@ docker push us.icr.io/$MY_NAMESPACE/hello-world:1
 ibmcloud cr images
 
 ibmcloud cr images --restrict $MY_NAMESPACE
+
+https://cf-courses-data.static.labs.skills.network/cc201/labs/1_ContainersAndDocker/instructions.md.html
